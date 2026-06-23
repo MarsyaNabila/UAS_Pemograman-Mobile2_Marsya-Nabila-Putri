@@ -1,4 +1,4 @@
-# UAS Pemograman Mobile 2
+# UAS Pemograman Mobile 2 // Final Project
 
 Nama: Marsya Nabila Putri
 
