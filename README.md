@@ -106,3 +106,7 @@ _Menampilkan seluruh riwayat hasil scan makanan yang pernah dilakukan pengguna._
 _Fitur ini digunakan untuk menghapus seluruh data konsumsi kalori dan nutrisi harian yang telah tercatat, sehingga pengguna dapat memulai pencatatan dari awal pada hari berikutnya atau saat diperlukan._
 
 # Logout akun
+
+<img width="390" height="844" alt="iPhone 13   14 - 12" src="https://github.com/user-attachments/assets/db5de303-8932-46ab-815c-f1c2a16edb0e" />
+
+_Fitur ini digunakan untuk mengakhiri sesi pengguna dan keluar dari aplikasi secara aman. Setelah logout, pengguna akan diarahkan kembali ke halaman login sehingga akun tetap terlindungi dari akses yang tidak sah._
