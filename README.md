@@ -23,3 +23,12 @@ Aplikasi ini dibuat dengan tujuan:
 - Meningkatkan kesadaran terhadap pola makan sehat
 - Menyediakan sistem pencatatan sederhana tanpa proses yang rumit
 - Menjadi dasar pengembangan aplikasi kesehatan berbasis teknologi
+
+## Fitur Utama
+- Login akun
+- Scan makanan menggunakan kamera
+- Deteksi makanan berbasis AI
+- Analisis nutrisi makanan
+- Riwayat hasil scan
+- Reset data riwayat
+- Logout akun
