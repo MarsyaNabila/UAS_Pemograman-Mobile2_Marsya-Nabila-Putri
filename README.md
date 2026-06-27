@@ -117,3 +117,6 @@ _Fitur ini digunakan untuk menghapus seluruh data konsumsi kalori dan nutrisi ha
 _Fitur ini digunakan untuk mengakhiri sesi pengguna dan keluar dari aplikasi secara aman. Setelah logout, pengguna akan diarahkan kembali ke halaman login sehingga akun tetap terlindungi dari akses yang tidak sah._
 
 # ClickUp
+
+<img width="718" height="406" alt="image" src="https://github.com/user-attachments/assets/4962ef56-25df-43ea-afb3-f206fa3e936c" />
+
