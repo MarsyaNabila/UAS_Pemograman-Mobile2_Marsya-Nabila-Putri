@@ -120,3 +120,5 @@ _Fitur ini digunakan untuk mengakhiri sesi pengguna dan keluar dari aplikasi sec
 
 <img width="718" height="406" alt="image" src="https://github.com/user-attachments/assets/4962ef56-25df-43ea-afb3-f206fa3e936c" />
 
+https://sharing.clickup.com/90181768542/g/h/2kzm15ay-118/03a653883d0ff6f
+
